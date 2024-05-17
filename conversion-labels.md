@@ -36,4 +36,14 @@ This table categorizes various conversion labels used to track user interactions
 | social_click_linkedin      | Click on an outbound social media link for LinkedIn.                |
 | social_click_pinterest     | Click on an outbound social media link for Pinterest.               |
 | social_click_xing          | Click on an outbound social media link for Xing.                    |
+| social_click_youtube       | Click on an outbound social media link for YouTube.                 |
 | social_click_x             | Click on an outbound social media link for X (Twitter).             |
+
+## eCommerce related conversions
+| Conversion-Label                | Description                                                    |
+|---------------------------------|----------------------------------------------------------------|
+| ecom_view_cart_page             | Visitor has visited the cart page                              |
+| ecom_view_customer_info_page    | Visitor has visited the customer Iifo page                     |
+| ecom_view_shipping_method_page  | Visitor has visited the shipping method page                   |
+| ecom_view_customer_address_page | Visitor has visited the customer address page                  |
+| ecom_view_payment_page          | Visitor has visited the payment method page                    |
