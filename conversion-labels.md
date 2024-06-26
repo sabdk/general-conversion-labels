@@ -10,11 +10,12 @@ This table categorizes various conversion labels used to track user interactions
 ## HR related conversion
 | Conversion-Label           | Description                                                         |
 |----------------------------|---------------------------------------------------------------------|
-| hr_job_viewed              | Job listing viewed.                                                 |
+| hr_application_send        | Job application successfully submitted.                             |
 | hr_click_phone             | Click on a `tel:` link associated with HR to initiate a call.       |
 | hr_click_email             | Click on a `mailto:` link associated with HR to start an email.     |
 | hr_contact_form_send       | HR contact form successfully submitted and confirmed.               |
-| hr_application_send        | Job application successfully submitted.                             |
+| hr_job_viewed              | Job listing viewed.                                                 |
+| hr_portal_viewed           | Job portal viewed.                                                  |
 | hr_signup_job_alert        | Successful subscription to a job alert or job newsletter.           |
 
 ## Lead related conversions
