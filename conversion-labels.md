@@ -26,9 +26,10 @@ This table categorizes various conversion labels used to track user interactions
 | lead_click_linkedin        | Click on a `LinkedIn` of an company employee                        |
 | lead_contact_form_send     | Contact form successfully submitted and confirmed.                  |
 | lead_appointment_booked    | Appointment booked, e.g., through Calendly.                         |
-| lead_signup_newsletter     | Newsletter subscription confirmed prior to double opt-in.           |
-| lead_signup_whitepaper     | Successful registration to receive a whitepaper or factsheet.       |
 | lead_signup_event          | Successful registration for an event.                               |
+| lead_signup_newsletter     | Newsletter subscription confirmed prior to double opt-in.           |
+| lead_signup_waitinglist    | Successfully registered on waiting list.                            |
+| lead_signup_whitepaper     | Successful registration to receive a whitepaper or factsheet.       |
 
 ## Social media / social networks related conversions
 | Conversion-Label           | Description                                                         |
