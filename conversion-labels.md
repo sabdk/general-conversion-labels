@@ -42,6 +42,13 @@ This table categorizes various conversion labels used to track user interactions
 | social_click_youtube       | Click on an outbound social media link for YouTube.                 |
 | social_click_x             | Click on an outbound social media link for X (Twitter).             |
 
+## Cooking related conversions
+| Conversion-Label           | Description                                                         |
+|----------------------------|---------------------------------------------------------------------|
+| recipe_shared              | Recipe shared via E-Mail or Social Media                            |
+| recipe_printed             | Recipe printed                                                      |
+
+
 ## eCommerce related conversions
 | Conversion-Label                | Description                                                    |
 |---------------------------------|----------------------------------------------------------------|
