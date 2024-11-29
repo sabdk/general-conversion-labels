@@ -49,6 +49,10 @@ This table categorizes various conversion labels used to track user interactions
 | recipe_shared              | Recipe shared via E-Mail or Social Media                            |
 | recipe_printed             | Recipe printed                                                      |
 
+## Hotel / Booking related conversions
+| Conversion-Label           | Description                                                         |
+|----------------------------|---------------------------------------------------------------------|
+| hotel_click_booking_btn    | Visitor opens IBE by clicking on "booking" button.                  |
 
 ## eCommerce related conversions
 | Conversion-Label                | Description                                                    |
